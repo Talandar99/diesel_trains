@@ -120,7 +120,7 @@ data.extend({
 			{ type = "item", name = "iron-plate", amount = 10 },
 			{ type = "item", name = "steel-plate", amount = 40 },
 		},
-		results = { { type = "item", name = "locomotive", amount = 1 } },
+		results = { { type = "item", name = "diesel-locomotive", amount = 1 } },
 	},
 	{
 		type = "technology",
